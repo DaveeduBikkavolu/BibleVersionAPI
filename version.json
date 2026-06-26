@@ -1,13 +1,17 @@
 {
-  "latestVersion": "7",
-  "minimumSupportedVersion": "3",
-  "forceUpdate": false,
-  "releaseDate": "2026-06-24",
-  "downloadUrl": "https://play.google.com/store/apps/details?id=com.david.offlinetelugubible",
-  "releaseNotes": [
-    "Language Switching Added",
-    "Daily Scheduled Notifications",
-    "Performance Improvements",
-    "Bug Fixes and Stability Enhancements"
-  ]
+"latestVersion": "7",
+"minimumSupportedVersion": "3",
+"forceUpdate": false,
+"releaseDate": "2026-06-26",
+"downloadUrl": "https://play.google.com/store/apps/details?id=com.david.offlinetelugubible",
+"releaseNotes": [
+"New Verse of the Day page added",
+"Copy Verse functionality added",
+"Share Verse functionality added",
+"Verse Selection support added while choosing Book and Chapter",
+"Improved Bible navigation experience",
+"Performance improvements",
+"Bug fixes and stability enhancements"
+]
 }
+
