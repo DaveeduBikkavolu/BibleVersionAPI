@@ -2,13 +2,11 @@
 "latestVersion": "7",
 "minimumSupportedVersion": "3",
 "forceUpdate": false,
-"releaseDate": "2026-06-26",
+"releaseDate": "2026-06-30",
 "downloadUrl": "https://play.google.com/store/apps/details?id=com.david.offlinetelugubible",
 "releaseNotes": [
-"New Verse of the Day page added",
-"Copy Verse functionality added",
-"Share Verse functionality added",
-"Verse Selection support added while choosing Book and Chapter",
+"Verse of the Day : Daily Notification Schedule",
+"Google Admob Implementation",
 "Improved Bible navigation experience",
 "Performance improvements",
 "Bug fixes and stability enhancements"
