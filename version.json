@@ -5,11 +5,10 @@
 "releaseDate": "2026-06-30",
 "downloadUrl": "https://play.google.com/store/apps/details?id=com.david.offlinetelugubible",
 "releaseNotes": [
-"Added ads to support the continued development and maintenance of the app",
-"Added daily Verse of the Day notifications",
-"Improved Bible navigation and reading experience",
-"Performance improvements",
-"Minor bug fixes and stability enhancements"
-]
+    "Updated the English Bible to the World English Bible (WEB) translation",
+    "Improved app performance and startup speed",
+    "Added interstitial ads to support ongoing app development",
+    "Minor bug fixes and stability improvements"
+  ]
 }
 
