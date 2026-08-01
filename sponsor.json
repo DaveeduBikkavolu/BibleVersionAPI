@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Bible College",
+    "image": "https://raw.githubusercontent.com/yourrepo/content/main/images/banner1.jpg",
+    "actionType": "url",
+    "actionValue": "https://example.com",
+    "startDate": "2026-08-01",
+    "endDate": "2026-09-01",
+    "priority": 1,
+    "showEveryMinutes": 30,
+    "enable": true
+  }
+]
