@@ -1,14 +1,13 @@
 {
 "latestVersion": "15",
-"minimumSupportedVersion": "7",
+"minimumSupportedVersion": "9",
 "forceUpdate": false,
-"releaseDate": "2026-07-21",
+"releaseDate": "2026-08-02",
 "downloadUrl": "https://play.google.com/store/apps/details?id=com.david.offlinetelugubible",
 "releaseNotes": [
-    "App Name Update to Holy Bible",
-    "Play Store App Name : Holy Bible - Telugu & English",
-    "Splash Screen Change",
-    "Performance Update"
+    "FCM Integration",
+    "Daily Notication Updates",
+    "Faith Declaration in Daily Verse Page"
   ]
 }
 
