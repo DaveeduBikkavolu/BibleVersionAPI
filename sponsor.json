@@ -6,17 +6,7 @@
     "actionType": "",
     "actionValue": "",
     "priority": 1,
-    "showEveryMinutes": 30,
-    "enable": true
-  },
-  {
-    "id": 2,
-    "title": "https://daveedubikkavolu.github.io/BibleVersionAPI/images/bibleimage.jpeg",
-    "image": "https://daveedubikkavolu.github.io/BibleVersionAPI/images/bibleimage.jpeg",
-    "actionType": "playstore",
-    "actionValue": "https://play.google.com/store/apps/details?id=com.david.offlinetelugubible",
-    "priority": 2,
-    "showEveryMinutes": 30,
-    "enable": true
+    "showEveryMinutes": 10,
+    "enable": false
   }
 ]
