@@ -7,6 +7,6 @@
     "actionValue": "https://daveedubikkavolu.github.io/BibleVersionAPI/images/img_Independenceday.png",
     "priority": 1,
     "showEveryMinutes": 10,
-    "enable": true
+    "enable": false
   }
 ]
