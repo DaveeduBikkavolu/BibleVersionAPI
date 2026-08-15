@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "title": "Bible APP",
-    "image": "https://daveedubikkavolu.github.io/BibleVersionAPI/images/bibleimage.jpeg",
-    "actionType": "",
-    "actionValue": "",
+    "title": "🇮🇳 Independence Day | Holy Bible - Telugu & English",
+    "image": "https://daveedubikkavolu.github.io/BibleVersionAPI/images/img_Independenceday.png",
+    "actionType": "url",
+    "actionValue": "https://daveedubikkavolu.github.io/BibleVersionAPI/images/img_Independenceday.jpeg",
     "priority": 1,
     "showEveryMinutes": 10,
-    "enable": false
+    "enable": true
   }
 ]
